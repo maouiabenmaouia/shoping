@@ -1,0 +1,24 @@
+.para {
+    width: 20%;
+    height: 20%;
+    border-radius: 8px;
+}
+
+.navbar-brand {
+    font-size: 200%;
+    margin:  70px 50px 75px 50px;;
+}
+.product1 {
+    width: 25%;
+    height: 25%;
+}
+.custom-sidebar-block {
+    background-color: #f1f1f1;
+}
+.custom-product-sidebar-block {
+    background-color: #f1f1f1;
+    margin-top: 10px;
+}
+body {
+    background-color: rgb(138, 223, 232);
+}
